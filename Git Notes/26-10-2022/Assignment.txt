@@ -1,0 +1,6 @@
+ 1.Create a notes directory..!
+ 2.Make notes directory as a git repository
+ 3.Create a git directory inside the notes directory.
+4.Create a file called gitnotes.md inside the git directory
+5.Try to push content to notes remote repository
+6.If you don't have a remote repo called notes in your GitHub then try to create a new remote repo called notes

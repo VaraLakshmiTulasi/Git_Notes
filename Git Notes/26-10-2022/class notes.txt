@@ -1,0 +1,27 @@
+Types of repos?
+what is local repo?
+what is remote repo?
+how to create a local repo?
+what is working tree?
+what is staging area?
+what is commit in git?
+
+- Local Repo
+- Remote Repo
+     Public and Private repos
+
+
+Reference links:
+- Basic Git workflow
+    https://evanwill.github.io/get-git-b/content/3-workflow.html
+    
+    working directory - staging Area - Local-repo 
+
+  git init -- Initialize repository in your local machine
+  git status 
+  git add - staging area 
+  git commit -m "added file" -- Local repo
+  git remote -v -- list out the remote-repos to that particular local repo
+  git remote add origin git@github.com:rajeshrj94/test.git
+  git remote -v -- it should populate the remote only after executing the above command
+  git push origin <branch_name>

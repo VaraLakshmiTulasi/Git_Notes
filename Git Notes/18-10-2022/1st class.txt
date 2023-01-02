@@ -1,0 +1,28 @@
+--------18-10-2022-----------------
+what is git and github -- Done
+what is the purpose of using git -- Done
+what are the advantages of git -- Done
+How to create a git account -- Done
+
+
+Source Code Management (SCM)  To store our projet code 
+GitHub, Gitlab , BitBucket depends on our project requirements.
+
+Github  it is a collection of repositories which are used to store our code.
+git  it is a git client software which helps us to configure repositories, managing the code using git.
+
+
+Local machine  
+Dev-1 -- code -- feature-1 -- stored locally..!  
+Dev-2 -- code -- feature-2 -- stored locally..!  
+
+storing code in local is not a recommended way...!
+
+remote repo
+- code is storing in a centralized way
+- code sharing(distribution) is easy 
+- storing code in a safe and secure place
+- code tracking
+- versioning
+- phased manner deployment v1, v2 
+-------------------------------------------
